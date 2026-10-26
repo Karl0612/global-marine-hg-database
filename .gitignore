@@ -1,0 +1,14 @@
+# This public repository must remain visualization-only.
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.pdf
+raw_sources/
+database/
+output/
+figures/
+assets/
+tmp/
+__pycache__/
+.DS_Store
