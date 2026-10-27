@@ -16,3 +16,16 @@
 公开版仅保留地点、精确坐标和样品数量。它不包括站位身份、Hg 含量、Hg 同位素结果、样品编号、沉积类型、分析方法、文献、DOI、来源表或原始数据文件。
 
 完整的整理数据库、文献来源文件和数据收集流程均保持私有。
+
+
+## 图 1：当前数据库图件
+
+以下 PNG 仅为当前公开图件预览；完整数据、文献来源和原始表格不随图件公开。
+
+![图 1a：全球沉积物 THg 分布](figures/Figure_1a_THg_global_distribution.png)
+
+![图 1b：全球沉积物 Hg 同位素分布](figures/Figure_1b_Hg_isotope_global_distribution.png)
+
+![图 1c：THg 纬向分布](figures/Figure_1c_THg_latitudinal_distribution.png)
+
+![图 1d：delta202Hg 纬向分布](figures/Figure_1d_delta202Hg_latitudinal_distribution.png)
